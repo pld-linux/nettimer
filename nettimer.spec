@@ -24,7 +24,7 @@ in the network. It can run in real time or analyze traces.
 
 %description -l pl
 Nettimer to narzêdzie do szacowania pasma sieci. Mo¿e aktywnie
-sprawdzaæ lub pasywnie nas³uchiwaæ. Mo¿e nss³uchiwaæ w wielu punktach
+sprawdzaæ lub pasywnie nas³uchiwaæ. Mo¿e nas³uchiwaæ w wielu punktach
 sieci. Mo¿e dzia³aæ w czasie rzeczywistym lub analizowaæ ¶lady.
 
 %prep
