@@ -5,7 +5,7 @@ Summary:	Nettimer - a bandwidth measurement tool
 Summary(pl):	Nettimer - narzêdzie do szacowania pasma
 Name:		nettimer
 Version:	2.3.8
-Release:        0.1
+Release:	0.1
 License:	GPL
 Group:		Applications/Networking
 Source0:	http://mosquitonet.stanford.edu/~laik/projects/nettimer/%{name}-%{version}.tar.gz
@@ -15,7 +15,7 @@ BuildRequires:	autoconf
 BuildRequires:	automake
 #BuildRequires:	libdpcap-devel
 #BuildRequires:	libkl-devel
-BuildRoot:      %{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Nettimer is a tool to do network bandwidth measurement. It can
