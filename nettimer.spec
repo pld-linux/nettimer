@@ -1,7 +1,8 @@
 # TODO:
 # - make specs with required libdpcap and libkl
 #   (http://mosquitonet.stanford.edu/~laik/projects/nettimer/#Download)
-Summary:	Nettimer is a bandwidth measurement tool.
+Summary:	Nettimer - a bandwidth measurement tool
+Summary(pl):	Nettimer - narzêdzie do szacowania pasma
 Name:		nettimer
 Version:	2.3.8
 Release:        0.1
@@ -20,6 +21,11 @@ BuildRoot:      %{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Nettimer is a tool to do network bandwidth measurement. It can
 actively probe or passively listen. It can listen at multiple points
 in the network. It can run in real time or analyze traces.
+
+%description -l pl
+Nettimer to narzêdzie do szacowania pasma sieci. Mo¿e aktywnie
+sprawdzaæ lub pasywnie nas³uchiwaæ. Mo¿e nss³uchiwaæ w wielu punktach
+sieci. Mo¿e dzia³aæ w czasie rzeczywistym lub analizowaæ ¶lady.
 
 %prep
 %setup -q
