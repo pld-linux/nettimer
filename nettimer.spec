@@ -2,7 +2,7 @@
 # - make specs with required libdpcap and libkl
 #   (http://mosquitonet.stanford.edu/~laik/projects/nettimer/#Download)
 Summary:	Nettimer - a bandwidth measurement tool
-Summary(pl.UTF-8):   Nettimer - narzędzie do szacowania pasma
+Summary(pl.UTF-8):	Nettimer - narzędzie do szacowania pasma
 Name:		nettimer
 Version:	2.3.8
 Release:	0.1
